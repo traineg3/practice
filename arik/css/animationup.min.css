@@ -1,0 +1,1 @@
+[data-fls-animationup]{opacity:0}[data-fls-animationup].--watcher-view{animation:show-animationup .8s ease forwards}@keyframes show-animationup{0%{opacity:0;translate:0 3.125rem}to{opacity:1;translate:0 0}}
